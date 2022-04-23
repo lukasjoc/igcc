@@ -1,0 +1,8 @@
+*~
+[._]*.sw[a-p]
+.netrwhist
+.DS_Store
+tags
+.vscode/
+out
+libigcc/__pycache__/*
